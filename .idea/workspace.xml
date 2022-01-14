@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6459e4f-e4b2-4358-b3d8-f1e3429f5b20" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/br/com/adelio/dsmovie/DsmovieApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/br/com/adelio/dsmovie/DsmovieApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/reportWebVitals.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsmovie.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,11 +34,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="72" />
-    <option name="y" value="27" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1043" />
+    <option name="y" value="30" />
     <option name="width" value="877" />
-    <option name="height" value="1053" />
+    <option name="height" value="789" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -61,85 +46,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="dsmovie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsmovie" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dsmovie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsmovie" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dsmovie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsmovie" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dsmovie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsmovie" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dsmovie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsmovie" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dsmovie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsmovie" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="br" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dsmovie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsmovie" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="br" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dsmovie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsmovie" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="br" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="adelio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dsmovie" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dsmovie" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="br" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="adelio" type="462c0819:PsiDirectoryNode" />
-              <item name="dsmovie" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -175,7 +82,7 @@
       <workItem from="1642084529990" duration="14000" />
       <workItem from="1642085169110" duration="515000" />
       <workItem from="1642124023503" duration="717000" />
-      <workItem from="1642127060582" duration="751000" />
+      <workItem from="1642127060582" duration="1404000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1642085389425</created>
@@ -188,12 +95,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1997000" />
+    <option name="totallyTimeSpent" value="2650000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="72" y="27" width="1848" height="1053" extended-state="6" />
+    <frame x="1043" y="30" width="877" height="789" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11598224" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2515042" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -210,7 +117,7 @@
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3293348" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.46248084" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
