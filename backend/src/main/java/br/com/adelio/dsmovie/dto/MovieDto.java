@@ -2,8 +2,11 @@ package br.com.adelio.dsmovie.dto;
 
 import br.com.adelio.dsmovie.entities.Movie;
 import lombok.Data;
+import lombok.Getter;
+import lombok.Setter;
 
-@Data
+@Getter
+@Setter
 public class MovieDto {
 
     private Long id;

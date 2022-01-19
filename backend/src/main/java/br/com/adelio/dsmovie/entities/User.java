@@ -1,11 +1,13 @@
 package br.com.adelio.dsmovie.entities;
 
 
-import lombok.Data;
+import lombok.Getter;
+import lombok.Setter;
 
 import javax.persistence.*;
 
-@Data
+@Getter
+@Setter
 @Entity
 @Table(name = "tb_user")
 public class User {
